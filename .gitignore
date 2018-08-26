@@ -1,0 +1,9 @@
+#Ignore generated *.txt files
+*.txt
+
+# Ignore sound files
+*.flac
+*.wav
+
+#Google Cloud JSON Creds
+*.json
